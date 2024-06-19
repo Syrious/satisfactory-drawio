@@ -6,3 +6,6 @@ In draw.io go to Extras -> Configuration and enter the follwing value
   "gridSteps": 8
 }
 ```
+
+## Use Library
+Got to Filer -> Open Library from -> Github (or URL)
