@@ -33,5 +33,11 @@
     "h": 78.75,
     "aspect": "fixed",
     "title": "Input"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Lift\" style=\"shape=or;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=30;labelBackgroundColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"78.75\" height=\"78.77\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 78.75,
+    "h": 78.77,
+    "aspect": "fixed"
   }
 ]</mxlibrary>
